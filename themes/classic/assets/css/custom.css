@@ -1,0 +1,23 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+.footer-container {
+	    border-top: 5px solid #9FAB6C;
+    	background-color: #C9D2A0;
+}
+#header, .header-top {
+	border-bottom: 5px solid #9BAA71;
+    background-color: #D9E8B0;
+}
+
+#header, .header-nav {
+	max-height: 50px;
+   	background-color: #D9E8B0;
+   	margin-bottom: 0px!important;
+   	border-bottom: 0px solid #f1f1f1!important;
+}
+
+#wrapper {
+	background: #E7E8D3;
+}
